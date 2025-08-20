@@ -8,4 +8,4 @@ Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dar
 
 Saya juga memiliki keahlian lain di bidang bakery sejak tahun 2023.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nabil-amar-abiyyi-101125304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nabil-amar-abiyyi-101125304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ku ya.
