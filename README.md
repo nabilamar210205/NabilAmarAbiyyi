@@ -6,13 +6,14 @@
     <td width="200" align="center">
       <img src="https://avatars.githubusercontent.com/u/165237838?s=400&u=3b531a3f4fba803d2fbb6ea8688b0c4ebdb0c157&v=4" 
            width="180" 
-           style="border-radius:50%; object-fit:cover;" 
-           alt="Foto Profil"/>
-      <br/><b>Nabil amar abiyyi</b>
+           alt="Foto Profil"
+           style="border-radius:50%;" />
+      <br/>
+      <b>Nabil amar abiyyi</b>
     </td>
 
     <!-- Tentang Saya -->
-    <td>
+    <td valign="top">
       
 ## 👨‍💻 Tentang Saya
 - 🌱 Curriculum Developer di [Dicoding](https://dicoding.com)  
