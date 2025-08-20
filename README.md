@@ -1,22 +1,34 @@
 # Halo semua! 
-<p>
-<img src="https://avatars.githubusercontent.com/u/165237838?s=400&u=3b531a3f4fba803d2fbb6ea8688b0c4ebdb0c157&v=4" width="200" style="border-radius: 50%">
- 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/177582000?v=4" 
+       width="180" 
+       style="border-radius:50%" 
+       alt="Foto Profil"/>
 </p>
-Perkenalkan nama saya **Nabil Amar Abyyi**.<br>
- 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
- 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
- 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
- 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
+
+---
+
+## 👨‍💻 Tentang Saya
+- 🌱 Curriculum Developer di [Dicoding](https://dicoding.com)  
+- 🎓 Bersertifikasi [University of Toronto](https://www.utoronto.ca/) dalam iOS Development  
+- 📱 Google Associate Android Developer (sejak 2019)  
+- 🚀 Tertarik dalam pengembangan mobile (iOS & Android)  
+
+📌 Jika kamu ingin berkenalan, silakan hubungi saya di [LinkedIn](https://linkedin.com).  
+
+---
+
+## 📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilamar210205&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilamar210205&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
