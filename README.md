@@ -1,6 +1,5 @@
 <table>
   <tr>
-    <!-- Foto Profil (Kiri) -->
     <td width="300" align="center" valign="top">
       <img src="https://avatars.githubusercontent.com/u/165237838?s=400&u=3b531a3f4fba803d2fbb6ea8688b0c4ebdb0c157&v=4" 
            width="200" 
@@ -13,8 +12,6 @@
       <br/><br/>
       <small>📍 Joined last week</small>
     </td>
-    
-    <!-- Perkenalan (Kanan) -->
     <td valign="top" style="padding-left: 20px;">
       
 # Halo semua!
