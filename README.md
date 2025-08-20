@@ -1,5 +1,5 @@
 # Halo semua! 
- 
+<img src="https://avatars.githubusercontent.com/u/nabilamar210205?v=4" width="200" style="border-radius: 50%">
 Perkenalkan nama saya **Nabil Amar Abyyi**.<br>
  
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
