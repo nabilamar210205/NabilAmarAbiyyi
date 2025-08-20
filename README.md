@@ -8,7 +8,7 @@
            width="180" 
            style="border-radius:50%; object-fit:cover;" 
            alt="Foto Profil"/>
-      <br/><b>Reyuki Arya Maulana</b>
+      <br/><b>Nabil amar abiyyi</b>
     </td>
 
     <!-- Tentang Saya -->
