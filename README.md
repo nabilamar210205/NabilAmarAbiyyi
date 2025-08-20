@@ -1,5 +1,5 @@
 # Halo semua! 
-<p align="center">
+<p align="left">
   <img src="https://avatars.githubusercontent.com/u/165237838?s=400&u=3b531a3f4fba803d2fbb6ea8688b0c4ebdb0c157&v=4" 
        width="180" 
        style="border-radius:50%" 
