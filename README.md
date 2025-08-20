@@ -1,13 +1,15 @@
 # Halo semua! 
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/165237838?s=400&u=3b531a3f4fba803d2fbb6ea8688b0c4ebdb0c157&v=4" 
-       width="180" 
-       style="border-radius:50%" 
-       alt="Foto Profil"/>
-</p>
 
----
-
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://avatars.githubusercontent.com/u/165237838?s=400&u=3b531a3f4fba803d2fbb6ea8688b0c4ebdb0c157&v=4" 
+           width="180" 
+           style="border-radius:50%" 
+           alt="Foto Profil"/>
+    </td>
+    <td>
+      
 ## 👨‍💻 Tentang Saya
 - 🌱 Curriculum Developer di [Dicoding](https://dicoding.com)  
 - 🎓 Bersertifikasi [University of Toronto](https://www.utoronto.ca/) dalam iOS Development  
@@ -15,6 +17,10 @@
 - 🚀 Tertarik dalam pengembangan mobile (iOS & Android)  
 
 📌 Jika kamu ingin berkenalan, silakan hubungi saya di [LinkedIn](https://linkedin.com).  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,4 +37,4 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-</p>
+</p> 
