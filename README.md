@@ -16,7 +16,7 @@
       
 # Halo semua!
 
-**Perkenalan nama saya Gilang Ramadhan.**
+**Perkenalan nama saya Nabil Amar Abiyyi.**
 
 Saya seorang Curriculum Developer di [Dicoding](https://dicoding.com).
 
