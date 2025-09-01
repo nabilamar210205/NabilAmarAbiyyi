@@ -64,5 +64,5 @@ Terbiasa menggunakan komputer/laptop sebagai penunjang aktivitas belajar dan pro
 
 ## 📬 Kontak  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nabil-amar-abiyyi-101125304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📧 Email: **(isi email Anda di sini)**  
+- 📧 Email: (amarabiyyinabil@gmail.com) 
 - 🌐 GitHub: [nabilamar210205](https://github.com/nabilamar210205)  
