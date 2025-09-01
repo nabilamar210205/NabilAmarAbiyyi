@@ -15,11 +15,16 @@
     <td valign="top" style="padding-left: 20px;">
       
 ## 👨‍💻 Tentang Saya
-- 🌱 Curriculum Developer di [Dicoding](https://dicoding.com)  
-- 🎓 Bersertifikasi [University of Toronto](https://www.utoronto.ca/) dalam iOS Development  
-- 📱 Google Associate Android Developer (sejak 2019)  
-- 🚀 Tertarik dalam pengembangan mobile (iOS & Android)  
-📌 Jika kamu ingin berkenalan, silakan hubungi saya di [LinkedIn](https://www.linkedin.com/in/nabil-amar-abiyyi-101125304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).  
+Halo! Saya **Nabil Amar**, seorang mahasiswa aktif semester 5 jurusan **Teknologi Rekayasa Perangkat Lunak (TRPL)**.  
+Saya terbiasa menggunakan komputer/laptop untuk menunjang aktivitas belajar maupun pengembangan perangkat lunak.  
+
+### ⚡ Spesifikasi Kemampuan
+- 🤝 Teamwork: **80%**  
+- 💻 Problem Solving & Logical Thinking: **75%**  
+- 📊 Manajemen Waktu: **70%**  
+- 🚀 Motivasi Belajar & Adaptasi Teknologi: **85%**  
+
+📌 Jika kamu ingin berkenalan atau berdiskusi, silakan hubungi saya di [LinkedIn](https://www.linkedin.com/in/nabil-amar-abiyyi-101125304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).  
     </td>
   </tr>
 </table>
